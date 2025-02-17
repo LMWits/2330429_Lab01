@@ -8,4 +8,4 @@ Secondly I made this file, "report.md", with details on what I have done.
 Lastly i will make "index.hmtl" which is an html file to flex my coding.
 I continued to make meaningful commits (just in case my inital ones are not that meaningful).
 
-Thank you for reading my ramblings :)
+Thank you for reading my ramblings :) 
